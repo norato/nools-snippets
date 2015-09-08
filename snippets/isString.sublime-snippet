@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isString(${1:something})
+]]></content>
+	<tabTrigger>isString</tabTrigger>
+</snippet>

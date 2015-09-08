@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isRegExp(${1:something})
+]]></content>
+	<tabTrigger>isRegExp</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+Date(year?, month?, day?, hour?, minute?, second?, ms?)
+]]></content>
+	<tabTrigger>Date</tabTrigger>
+</snippet>

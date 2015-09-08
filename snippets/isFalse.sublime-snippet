@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isFalse(${1:something})
+]]></content>
+	<tabTrigger>isFalse</tabTrigger>
+</snippet>

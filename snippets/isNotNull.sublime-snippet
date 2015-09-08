@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isNotNull(${1:something})
+]]></content>
+	<tabTrigger>isNotNull</tabTrigger>
+</snippet>

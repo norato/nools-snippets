@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+(years|months|days|hours|minutes|seconds)(Ago|FromNow)(interval)
+]]></content>
+	<tabTrigger>modDate</tabTrigger>
+	<description>adds/subtracts the date unit from the current time</description>
+</snippet>

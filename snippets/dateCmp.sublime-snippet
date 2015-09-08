@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+dateCmp(dt1, dt2)
+]]></content>
+	<tabTrigger>dateCmp</tabTrigger>
+	<description>compares two dates</description>
+</snippet>

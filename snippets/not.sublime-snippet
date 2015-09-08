@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+not(${1:fact} : ${1:something})
+]]></content>
+	<tabTrigger>not</tabTrigger>
+</snippet>

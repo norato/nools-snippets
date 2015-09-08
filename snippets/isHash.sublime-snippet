@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isHash(${1:something})
+]]></content>
+	<tabTrigger>isHash</tabTrigger>
+</snippet>

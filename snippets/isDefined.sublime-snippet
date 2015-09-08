@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isDefined(${1:something})
+]]></content>
+	<tabTrigger>isDefined</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+lengthOf(${1:arr}, ${2:length})
+]]></content>
+	<tabTrigger>lengthOf</tabTrigger>
+</snippet>

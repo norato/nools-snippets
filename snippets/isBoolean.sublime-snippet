@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isBoolean(${1:something})
+]]></content>
+	<tabTrigger>isBoolean</tabTrigger>
+</snippet>

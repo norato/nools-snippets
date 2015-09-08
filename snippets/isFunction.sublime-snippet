@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isFunction(something)
+]]></content>
+	<tabTrigger>isFunction</tabTrigger>
+</snippet>

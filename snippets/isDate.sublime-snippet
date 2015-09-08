@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isDate(${1:something})
+]]></content>
+	<tabTrigger>isDate</tabTrigger>
+</snippet>
