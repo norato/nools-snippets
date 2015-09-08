@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+rule ${1:ruleName}{
+	when{
+		//facts
+	}
+	then{
+		//events	
+	}
+}
+	]]></content>
+	<tabTrigger>rule</tabTrigger>
+	<description>Nools Rule</description>
+</snippet>
