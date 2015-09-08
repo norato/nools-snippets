@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+modify(${1:fact}, function(){
+	/// body
+})
+]]></content>
+	<tabTrigger>modify</tabTrigger>
+	<description>Modify fact</description>
+</snippet>

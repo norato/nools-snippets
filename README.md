@@ -11,7 +11,8 @@ Available snippets
 
 ### Nools
 
-1. `rule + tab` | Create Rule
+1. `rule + tab`   | Create Rule
+1. `modify + tab` | Modify a Fact
 
 
 ### Suggestions
